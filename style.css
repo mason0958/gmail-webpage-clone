@@ -28,6 +28,11 @@
 	position: relative;
 	text-align: center;
 	top: 82px;
+	background-color: white;
+}
+#body-wrapper {
+	background-color: blue;
+	backgro
 }
 #footer {
 	height: 40px;
@@ -56,18 +61,18 @@
 	position: relative;
 }
 #search-wrapper input {
-	width: 493px;
+	width: 283px;
 	height: 33px;
 }
 #button-holder {
 
 }
 #button-holder button {
-	width: 131px;
+	width: 370px;
 	top: 39px;
 	height: 36px;
 	position: relative;
-	background-color: #F2F2F2;
+	background-color: blue;
 	border: none;
 	font-weight: 700;
 	color: #757575;
